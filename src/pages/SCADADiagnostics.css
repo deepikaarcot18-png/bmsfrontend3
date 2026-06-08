@@ -1,0 +1,8 @@
+.scada-page .glass-card {
+  min-width: 0;
+}
+
+.scada-grid > .glass-card,
+.scada-grid > div {
+  min-width: 0;
+}
